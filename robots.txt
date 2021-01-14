@@ -1,0 +1,5 @@
+User-agent: Yandex
+Allow: /cgi-bin
+Disallow: /
+# запрещает скачивать все, кроме страниц 
+# начинающихся с '/cgi-bin'
